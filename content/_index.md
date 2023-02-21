@@ -1,8 +1,8 @@
 ---
 banner:
-  title: Let us solve your critical website development challenges
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
-  image: /images/banner-art.svg
+  title: Let your computer work for you and receive full returns
+  content: AI technology and blockchain technology merge into one </br> Therefore, the train to earn technology was born so that </br> you can take advantage of it to the fullest and receive endless rewards
+  image: /images/miningcryptocurrency.jpg
   button:
     label: "Contact Us"
     link: "/contact"
@@ -11,24 +11,24 @@ banner:
 feature: 
   title: Something You Need To Know
   features:
-  - name: "Clean Code"
+  - name: "Code"
     icon: "/images/code.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Object Oriented"
+    content: "No code!! install and earn"
+  - name: "Blockchain"
     icon: "/images/oop.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "24h Service"
+    content: "AI technology and blockchain technology merge into one"
+  - name: "24h Worker"
     icon: "/images/user-clock.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Value for Money"
+    content: "Receive returns 24 hours a day without stopping"
+  - name: "Earn Money"
     icon: "/images/love.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Faster Response"
+    content: "Earn instant rewards via blockchain"
+  - name: "Easy and Faster Response"
     icon: "/images/speedometer.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Cloud Support"
+    content: "No hassle, train fast and get rewarded"
+  - name: "Cloud and Blockchain Support"
     icon: "/images/cloud.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "All data is on the cloud and blockchain"
 
 # services
 services:
@@ -76,15 +76,15 @@ services:
 
 # workflow
 workflow: 
-  title: "Experience the best workflow with us"
+  title: "Train to Earn with us"
   image: "/images/banner.svg"
   description: ""
 
 # call_to_action
 call_to_action:
-  title: Ready to get started?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
-  image: '/images/cta.svg'
+  title: Ready to train to earn?
+  content: Are you ready to put your computer to work and make money with us?
+  image: '/images/mingdata.jpg'
   button:
     enable: true
     label: "Contact Us"

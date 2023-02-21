@@ -9,8 +9,8 @@
       "url": "/blogs"
     },
     {
-      "name": "Pricing",
-      "url": "/pricing"
+      "name": "Team",
+      "url": "/team"
     },
     {
       "name": "Contact",
@@ -26,8 +26,8 @@
       "name": "Company",
       "menu": [
         {
-          "text": "Pricing",
-          "url": "/pricing"
+          "text": "Team",
+          "url": "/team"
         },
         {
           "text": "Quick Start",
@@ -47,8 +47,8 @@
           "url": "#"
         },
         {
-          "text": "Pricing",
-          "url": "/pricing"
+          "text": "Team",
+          "url": "/team"
         }
       ]
     },

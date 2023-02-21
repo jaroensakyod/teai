@@ -76,7 +76,7 @@ const Home = ({ frontmatter }) => {
       </section>
 
       {/* services */}
-      {services.map((service, index) => {
+      {/*{services.map((service, index) => {
         const isOdd = index % 2 > 0;
         return (
           <section
@@ -85,7 +85,7 @@ const Home = ({ frontmatter }) => {
           >
             <div className="container">
               <div className="items-center gap-8 md:grid md:grid-cols-2">
-                {/* Carousel */}
+                {/* Carousel }
                 <div className={`service-carousel ${!isOdd && "md:order-2"}`}>
                   <Swiper
                     modules={[Autoplay, Pagination]}
@@ -98,7 +98,7 @@ const Home = ({ frontmatter }) => {
                     }}
                     init={service?.images > 1 ? false : true}
                   >
-                    {/* Slides */}
+                    {/* Slides }
                     {service?.images.map((slide, index) => (
                       <SwiperSlide key={index}>
                         <Image src={slide} alt="" width={600} height={500} />
@@ -107,7 +107,7 @@ const Home = ({ frontmatter }) => {
                   </Swiper>
                 </div>
 
-                {/* Content */}
+                {/* Content }
                 <div
                   className={`service-content mt-5 md:mt-0 ${
                     !isOdd && "md:order-1"
@@ -135,7 +135,7 @@ const Home = ({ frontmatter }) => {
             </div>
           </section>
         );
-      })}
+      })}*/}
 
       {/* workflow */}
       <section className="section pb-0">
